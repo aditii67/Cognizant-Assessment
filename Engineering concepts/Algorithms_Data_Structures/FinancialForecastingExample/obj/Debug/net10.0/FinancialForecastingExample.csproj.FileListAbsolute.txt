@@ -1,0 +1,15 @@
+C:\Users\Aditi\Desktop\Cognizant Assessment\Engineering concepts\Algorithms_Data_Structures\FinancialForecastingExample\bin\Debug\net10.0\FinancialForecastingExample.exe
+C:\Users\Aditi\Desktop\Cognizant Assessment\Engineering concepts\Algorithms_Data_Structures\FinancialForecastingExample\bin\Debug\net10.0\FinancialForecastingExample.deps.json
+C:\Users\Aditi\Desktop\Cognizant Assessment\Engineering concepts\Algorithms_Data_Structures\FinancialForecastingExample\bin\Debug\net10.0\FinancialForecastingExample.runtimeconfig.json
+C:\Users\Aditi\Desktop\Cognizant Assessment\Engineering concepts\Algorithms_Data_Structures\FinancialForecastingExample\bin\Debug\net10.0\FinancialForecastingExample.dll
+C:\Users\Aditi\Desktop\Cognizant Assessment\Engineering concepts\Algorithms_Data_Structures\FinancialForecastingExample\bin\Debug\net10.0\FinancialForecastingExample.pdb
+C:\Users\Aditi\Desktop\Cognizant Assessment\Engineering concepts\Algorithms_Data_Structures\FinancialForecastingExample\obj\Debug\net10.0\FinancialForecastingExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditi\Desktop\Cognizant Assessment\Engineering concepts\Algorithms_Data_Structures\FinancialForecastingExample\obj\Debug\net10.0\FinancialForecastingExample.AssemblyInfoInputs.cache
+C:\Users\Aditi\Desktop\Cognizant Assessment\Engineering concepts\Algorithms_Data_Structures\FinancialForecastingExample\obj\Debug\net10.0\FinancialForecastingExample.AssemblyInfo.cs
+C:\Users\Aditi\Desktop\Cognizant Assessment\Engineering concepts\Algorithms_Data_Structures\FinancialForecastingExample\obj\Debug\net10.0\FinancialForecastingExample.csproj.CoreCompileInputs.cache
+C:\Users\Aditi\Desktop\Cognizant Assessment\Engineering concepts\Algorithms_Data_Structures\FinancialForecastingExample\obj\Debug\net10.0\FinancialForecastingExample.sourcelink.json
+C:\Users\Aditi\Desktop\Cognizant Assessment\Engineering concepts\Algorithms_Data_Structures\FinancialForecastingExample\obj\Debug\net10.0\FinancialForecastingExample.dll
+C:\Users\Aditi\Desktop\Cognizant Assessment\Engineering concepts\Algorithms_Data_Structures\FinancialForecastingExample\obj\Debug\net10.0\refint\FinancialForecastingExample.dll
+C:\Users\Aditi\Desktop\Cognizant Assessment\Engineering concepts\Algorithms_Data_Structures\FinancialForecastingExample\obj\Debug\net10.0\FinancialForecastingExample.pdb
+C:\Users\Aditi\Desktop\Cognizant Assessment\Engineering concepts\Algorithms_Data_Structures\FinancialForecastingExample\obj\Debug\net10.0\FinancialForecastingExample.genruntimeconfig.cache
+C:\Users\Aditi\Desktop\Cognizant Assessment\Engineering concepts\Algorithms_Data_Structures\FinancialForecastingExample\obj\Debug\net10.0\ref\FinancialForecastingExample.dll
