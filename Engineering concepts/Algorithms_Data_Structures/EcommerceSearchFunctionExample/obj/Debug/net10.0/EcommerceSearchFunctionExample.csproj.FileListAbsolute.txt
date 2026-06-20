@@ -1,0 +1,15 @@
+C:\Users\Aditi\Desktop\Cognizant Assessment\Engineering concepts\Algorithms_Data_Structures\EcommerceSearchFunctionExample\bin\Debug\net10.0\EcommerceSearchFunctionExample.exe
+C:\Users\Aditi\Desktop\Cognizant Assessment\Engineering concepts\Algorithms_Data_Structures\EcommerceSearchFunctionExample\bin\Debug\net10.0\EcommerceSearchFunctionExample.deps.json
+C:\Users\Aditi\Desktop\Cognizant Assessment\Engineering concepts\Algorithms_Data_Structures\EcommerceSearchFunctionExample\bin\Debug\net10.0\EcommerceSearchFunctionExample.runtimeconfig.json
+C:\Users\Aditi\Desktop\Cognizant Assessment\Engineering concepts\Algorithms_Data_Structures\EcommerceSearchFunctionExample\bin\Debug\net10.0\EcommerceSearchFunctionExample.dll
+C:\Users\Aditi\Desktop\Cognizant Assessment\Engineering concepts\Algorithms_Data_Structures\EcommerceSearchFunctionExample\bin\Debug\net10.0\EcommerceSearchFunctionExample.pdb
+C:\Users\Aditi\Desktop\Cognizant Assessment\Engineering concepts\Algorithms_Data_Structures\EcommerceSearchFunctionExample\obj\Debug\net10.0\EcommerceSearchFunctionExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditi\Desktop\Cognizant Assessment\Engineering concepts\Algorithms_Data_Structures\EcommerceSearchFunctionExample\obj\Debug\net10.0\EcommerceSearchFunctionExample.AssemblyInfoInputs.cache
+C:\Users\Aditi\Desktop\Cognizant Assessment\Engineering concepts\Algorithms_Data_Structures\EcommerceSearchFunctionExample\obj\Debug\net10.0\EcommerceSearchFunctionExample.AssemblyInfo.cs
+C:\Users\Aditi\Desktop\Cognizant Assessment\Engineering concepts\Algorithms_Data_Structures\EcommerceSearchFunctionExample\obj\Debug\net10.0\EcommerceSearchFunctionExample.csproj.CoreCompileInputs.cache
+C:\Users\Aditi\Desktop\Cognizant Assessment\Engineering concepts\Algorithms_Data_Structures\EcommerceSearchFunctionExample\obj\Debug\net10.0\EcommerceSearchFunctionExample.sourcelink.json
+C:\Users\Aditi\Desktop\Cognizant Assessment\Engineering concepts\Algorithms_Data_Structures\EcommerceSearchFunctionExample\obj\Debug\net10.0\EcommerceSearchFunctionExample.dll
+C:\Users\Aditi\Desktop\Cognizant Assessment\Engineering concepts\Algorithms_Data_Structures\EcommerceSearchFunctionExample\obj\Debug\net10.0\refint\EcommerceSearchFunctionExample.dll
+C:\Users\Aditi\Desktop\Cognizant Assessment\Engineering concepts\Algorithms_Data_Structures\EcommerceSearchFunctionExample\obj\Debug\net10.0\EcommerceSearchFunctionExample.pdb
+C:\Users\Aditi\Desktop\Cognizant Assessment\Engineering concepts\Algorithms_Data_Structures\EcommerceSearchFunctionExample\obj\Debug\net10.0\EcommerceSearchFunctionExample.genruntimeconfig.cache
+C:\Users\Aditi\Desktop\Cognizant Assessment\Engineering concepts\Algorithms_Data_Structures\EcommerceSearchFunctionExample\obj\Debug\net10.0\ref\EcommerceSearchFunctionExample.dll
