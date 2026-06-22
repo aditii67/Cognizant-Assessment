@@ -1,0 +1,12 @@
+c:\Users\Aditi\Desktop\Cognizant Assessment\Deep Skilling\NUnit and Moq\Moq_Handson\CustomerCommLib\bin\Debug\net10.0\CustomerCommLib.deps.json
+C:\Users\Aditi\Desktop\Cognizant Assessment\Deep Skilling\NUnit and Moq\Moq_Handson\CustomerCommLib\bin\Debug\net10.0\CustomerCommLib.dll
+C:\Users\Aditi\Desktop\Cognizant Assessment\Deep Skilling\NUnit and Moq\Moq_Handson\CustomerCommLib\bin\Debug\net10.0\CustomerCommLib.pdb
+C:\Users\Aditi\Desktop\Cognizant Assessment\Deep Skilling\NUnit and Moq\Moq_Handson\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditi\Desktop\Cognizant Assessment\Deep Skilling\NUnit and Moq\Moq_Handson\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.AssemblyInfoInputs.cache
+C:\Users\Aditi\Desktop\Cognizant Assessment\Deep Skilling\NUnit and Moq\Moq_Handson\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.AssemblyInfo.cs
+C:\Users\Aditi\Desktop\Cognizant Assessment\Deep Skilling\NUnit and Moq\Moq_Handson\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\Users\Aditi\Desktop\Cognizant Assessment\Deep Skilling\NUnit and Moq\Moq_Handson\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.sourcelink.json
+C:\Users\Aditi\Desktop\Cognizant Assessment\Deep Skilling\NUnit and Moq\Moq_Handson\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.dll
+C:\Users\Aditi\Desktop\Cognizant Assessment\Deep Skilling\NUnit and Moq\Moq_Handson\CustomerCommLib\obj\Debug\net10.0\refint\CustomerCommLib.dll
+C:\Users\Aditi\Desktop\Cognizant Assessment\Deep Skilling\NUnit and Moq\Moq_Handson\CustomerCommLib\obj\Debug\net10.0\CustomerCommLib.pdb
+c:\Users\Aditi\Desktop\Cognizant Assessment\Deep Skilling\NUnit and Moq\Moq_Handson\CustomerCommLib\obj\Debug\net10.0\ref\CustomerCommLib.dll

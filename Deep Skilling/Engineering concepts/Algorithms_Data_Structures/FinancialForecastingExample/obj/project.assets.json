@@ -13,19 +13,21 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aditi\\Desktop\\Cognizant Assessment\\Engineering concepts\\Algorithms_Data_Structures\\FinancialForecastingExample\\FinancialForecastingExample.csproj",
+      "projectUniqueName": "C:\\Users\\Aditi\\Desktop\\Cognizant Assessment\\Deep Skilling\\Engineering concepts\\Algorithms_Data_Structures\\FinancialForecastingExample\\FinancialForecastingExample.csproj",
       "projectName": "FinancialForecastingExample",
-      "projectPath": "C:\\Users\\Aditi\\Desktop\\Cognizant Assessment\\Engineering concepts\\Algorithms_Data_Structures\\FinancialForecastingExample\\FinancialForecastingExample.csproj",
+      "projectPath": "C:\\Users\\Aditi\\Desktop\\Cognizant Assessment\\Deep Skilling\\Engineering concepts\\Algorithms_Data_Structures\\FinancialForecastingExample\\FinancialForecastingExample.csproj",
       "packagesPath": "C:\\Users\\Aditi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aditi\\Desktop\\Cognizant Assessment\\Engineering concepts\\Algorithms_Data_Structures\\FinancialForecastingExample\\obj\\",
+      "outputPath": "C:\\Users\\Aditi\\Desktop\\Cognizant Assessment\\Deep Skilling\\Engineering concepts\\Algorithms_Data_Structures\\FinancialForecastingExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Aditi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Aditi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
