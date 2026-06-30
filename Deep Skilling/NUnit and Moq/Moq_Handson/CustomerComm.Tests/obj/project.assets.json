@@ -1686,8 +1686,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "c:\\Users\\Aditi\\Desktop\\Cognizant Assessment\\Deep Skilling\\NUnit and Moq\\Moq_Handson\\CustomerCommLib\\CustomerCommLib.csproj": {
-              "projectPath": "c:\\Users\\Aditi\\Desktop\\Cognizant Assessment\\Deep Skilling\\NUnit and Moq\\Moq_Handson\\CustomerCommLib\\CustomerCommLib.csproj"
+            "C:\\Users\\Aditi\\Desktop\\Cognizant Assessment\\Deep Skilling\\NUnit and Moq\\Moq_Handson\\CustomerCommLib\\CustomerCommLib.csproj": {
+              "projectPath": "C:\\Users\\Aditi\\Desktop\\Cognizant Assessment\\Deep Skilling\\NUnit and Moq\\Moq_Handson\\CustomerCommLib\\CustomerCommLib.csproj"
             }
           }
         }

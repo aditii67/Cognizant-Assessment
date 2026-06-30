@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m9nSEwPe3rc=",
+  "dgSpecHash": "uweK1IYD+sw=",
   "success": true,
-  "projectFilePath": "c:\\Users\\Aditi\\Desktop\\Cognizant Assessment\\Deep Skilling\\NUnit and Moq\\NUnit_Handson\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Aditi\\Desktop\\Cognizant Assessment\\Deep Skilling\\NUnit and Moq\\NUnit_Handson\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aditi\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\Aditi\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
@@ -20,15 +20,5 @@
     "C:\\Users\\Aditi\\.nuget\\packages\\nunit.analyzers\\4.7.0\\nunit.analyzers.4.7.0.nupkg.sha512",
     "C:\\Users\\Aditi\\.nuget\\packages\\nunit3testadapter\\5.0.0\\nunit3testadapter.5.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
-      "projectPath": "c:\\Users\\Aditi\\Desktop\\Cognizant Assessment\\Deep Skilling\\NUnit and Moq\\NUnit_Handson\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
-      "warningLevel": 1,
-      "filePath": "c:\\Users\\Aditi\\Desktop\\Cognizant Assessment\\Deep Skilling\\NUnit and Moq\\NUnit_Handson\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
-      "targetGraphs": []
-    }
-  ]
+  "logs": []
 }
