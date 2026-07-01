@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RetailInsertData")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80e0370bad542daa298679d0419f7b46428a8b79")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea937828d71a791ded6be58415d400bf5334d637")]
 [assembly: System.Reflection.AssemblyProductAttribute("RetailInsertData")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RetailInsertData")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

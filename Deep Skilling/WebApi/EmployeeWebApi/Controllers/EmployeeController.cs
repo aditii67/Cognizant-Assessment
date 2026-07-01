@@ -59,9 +59,6 @@ public class EmployeeController : ControllerBase
     [ProducesResponseType(StatusCodes.Status200OK)]
     public ActionResult<List<Employee>> Get()
     {
-        // Uncomment this line only while testing CustomExceptionFilter
-        // throw new Exception("Employee Exception Generated");
-
         return Ok(employees);
     }
 
@@ -91,21 +88,51 @@ public class EmployeeController : ControllerBase
     // PUT
     [HttpPut("{id}")]
     [ProducesResponseType(StatusCodes.Status200OK)]
-    [ProducesResponseType(StatusCodes.Status404NotFound)]
+    [ProducesResponseType(StatusCodes.Status400BadRequest)]
     public ActionResult<Employee> Put(int id, [FromBody] Employee employee)
     {
-        var existing = employees.FirstOrDefault(e => e.Id == id);
+        if (id <= 0)
+        {
+            return BadRequest("Invalid employee id");
+        }
 
-        if (existing == null)
-            return NotFound();
+        var existingEmployee = employees.FirstOrDefault(e => e.Id == id);
 
-        existing.Name = employee.Name;
-        existing.Salary = employee.Salary;
-        existing.Permanent = employee.Permanent;
-        existing.Department = employee.Department;
-        existing.Skills = employee.Skills;
-        existing.DateOfBirth = employee.DateOfBirth;
+        if (existingEmployee == null)
+        {
+            return BadRequest("Invalid employee id");
+        }
 
-        return Ok(existing);
+        existingEmployee.Name = employee.Name;
+        existingEmployee.Salary = employee.Salary;
+        existingEmployee.Permanent = employee.Permanent;
+        existingEmployee.Department = employee.Department;
+        existingEmployee.Skills = employee.Skills;
+        existingEmployee.DateOfBirth = employee.DateOfBirth;
+
+        return Ok(existingEmployee);
+    }
+
+    // DELETE
+    [HttpDelete("{id}")]
+    [ProducesResponseType(StatusCodes.Status200OK)]
+    [ProducesResponseType(StatusCodes.Status400BadRequest)]
+    public ActionResult Delete(int id)
+    {
+        if (id <= 0)
+        {
+            return BadRequest("Invalid employee id");
+        }
+
+        var employee = employees.FirstOrDefault(e => e.Id == id);
+
+        if (employee == null)
+        {
+            return BadRequest("Invalid employee id");
+        }
+
+        employees.Remove(employee);
+
+        return Ok("Employee deleted successfully");
     }
 }
