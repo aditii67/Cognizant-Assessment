@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RetailRetrieveData")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea937828d71a791ded6be58415d400bf5334d637")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a02b1e363b45dc81d2a34853ff0ec0010224e2a")]
 [assembly: System.Reflection.AssemblyProductAttribute("RetailRetrieveData")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RetailRetrieveData")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
