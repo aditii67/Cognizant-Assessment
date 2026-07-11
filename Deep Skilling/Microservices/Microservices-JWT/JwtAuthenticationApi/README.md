@@ -151,11 +151,3 @@ Password:
 ```
 admin123
 ```
-
-## Author
-
-Akash Kumar Gupta
-
-B.Tech CSE Student
-
-C. V. Raman Global University
