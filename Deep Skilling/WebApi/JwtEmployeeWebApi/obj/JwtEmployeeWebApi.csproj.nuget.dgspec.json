@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Aditi\\Desktop\\Cognizant Assessment\\Deep Skilling\\WebApi\\JwtEmployeeWebApi\\JwtEmployeeWebApi.csproj": {}
+    "C:\\Users\\Aditi\\Desktop\\Cognizant Assessment\\Deep Skilling\\WebApi\\JwtEmployeeWebApi\\JwtEmployeeWebApi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Aditi\\Desktop\\Cognizant Assessment\\Deep Skilling\\WebApi\\JwtEmployeeWebApi\\JwtEmployeeWebApi.csproj": {
+    "C:\\Users\\Aditi\\Desktop\\Cognizant Assessment\\Deep Skilling\\WebApi\\JwtEmployeeWebApi\\JwtEmployeeWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Aditi\\Desktop\\Cognizant Assessment\\Deep Skilling\\WebApi\\JwtEmployeeWebApi\\JwtEmployeeWebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Aditi\\Desktop\\Cognizant Assessment\\Deep Skilling\\WebApi\\JwtEmployeeWebApi\\JwtEmployeeWebApi.csproj",
         "projectName": "JwtEmployeeWebApi",
-        "projectPath": "c:\\Users\\Aditi\\Desktop\\Cognizant Assessment\\Deep Skilling\\WebApi\\JwtEmployeeWebApi\\JwtEmployeeWebApi.csproj",
+        "projectPath": "C:\\Users\\Aditi\\Desktop\\Cognizant Assessment\\Deep Skilling\\WebApi\\JwtEmployeeWebApi\\JwtEmployeeWebApi.csproj",
         "packagesPath": "C:\\Users\\Aditi\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Aditi\\Desktop\\Cognizant Assessment\\Deep Skilling\\WebApi\\JwtEmployeeWebApi\\obj\\",
+        "outputPath": "C:\\Users\\Aditi\\Desktop\\Cognizant Assessment\\Deep Skilling\\WebApi\\JwtEmployeeWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aditi\\AppData\\Roaming\\NuGet\\NuGet.Config",
