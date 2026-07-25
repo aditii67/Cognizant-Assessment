@@ -1,0 +1,18 @@
+# Node
+node_modules/
+dist/
+build/
+
+# Angular
+.angular/
+.cache/
+
+# .NET
+bin/
+obj/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
