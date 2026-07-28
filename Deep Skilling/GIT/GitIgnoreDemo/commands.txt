@@ -1,0 +1,13 @@
+mkdir GitIgnoreDemo
+
+cd GitIgnoreDemo
+
+echo "Application Log" > test.log
+
+mkdir logs
+
+echo "Error Log" > logs\error.log
+
+New-Item .gitignore -ItemType File
+
+git status
