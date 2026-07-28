@@ -1,0 +1,62 @@
+# Git Merge Conflict Hands-On Commands
+
+# Create Branch
+git branch GitWork
+
+# List Branches
+git branch
+
+# Switch to Branch
+git checkout GitWork
+
+# Edit hello.xml
+
+# Check Status
+git status
+
+# Add Changes
+git add "Deep Skilling/GIT/GitMergeConflictDemo/hello.xml"
+
+# Commit Branch Changes
+git commit -m "Updated hello.xml in GitWork"
+
+# Switch to Main
+git checkout main
+
+# Edit hello.xml with different content
+
+# Commit Main Changes
+git add "Deep Skilling/GIT/GitMergeConflictDemo/hello.xml"
+
+git commit -m "Updated hello.xml in main"
+
+# View Log
+git log --oneline --graph --decorate --all
+
+# Compare Branches
+git diff main GitWork
+
+# Merge Branch
+git merge GitWork
+
+# Resolve Conflict
+git add "Deep Skilling/GIT/GitMergeConflictDemo/hello.xml"
+
+git commit -m "Resolved merge conflict"
+
+# Ignore Backup Files
+echo "*.bak" >> .gitignore
+
+# Commit .gitignore
+git add .gitignore
+
+git commit -m "Updated .gitignore"
+
+# Delete Branch
+git branch -d GitWork
+
+# Final Log
+git log --oneline --graph --decorate
+
+# Push
+git push origin main
