@@ -1,0 +1,15 @@
+git --version
+
+git config --global user.name "Aditi Kumari"
+
+git config --global user.email "aditiaairya2004@gmail.com"
+
+git init
+
+git status
+
+git add .
+
+git commit -m "Added welcome.txt"
+
+git push origin main
